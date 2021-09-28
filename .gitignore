@@ -1,0 +1,17 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/build
+/target
+/**/target
+
+# IDEs and editors
+.idea
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+*.iml
